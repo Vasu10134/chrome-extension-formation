@@ -5,7 +5,7 @@ A simple Chrome extension that tracks the time spent on a particular tab and all
 - **Time Tracking ⏳**: Automatically tracks how long you have spent on a particular tab.
 - **Dark/Light Mode 🌙🌞**: Toggle between dark and light themes for a more personalized browsing experience.
 - **Simple & Intuitive**: Easy to use with a clean interface.
-- 
+ 
 ## Installation 🛠️
 1. Download or clone the repository.
 2. Go to `chrome://extensions/` in your Chrome browser.
